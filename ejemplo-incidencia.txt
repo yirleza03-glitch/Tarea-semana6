@@ -1,0 +1,5 @@
+{
+      "tipo": "Recolector de basura",
+        "descripcion": "La comunidad reporta que el carro  no funciona desde hace varios días."
+}
+}
